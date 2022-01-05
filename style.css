@@ -1,0 +1,20 @@
+h1{
+    font-family: 'Fira Sans', sans-serif;
+}
+.color-name{
+    color: orangered;
+}
+.button-name{
+   background-image: linear-gradient(salmon, tomato);
+   text-decoration: none;
+  color: white;
+ border-radius: 10%;
+ }
+ .margin-add{
+     border-left: rgb(127, 7, 247) solid;
+     
+ }
+
+ .flex{
+     display: flex;
+ }
